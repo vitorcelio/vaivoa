@@ -1,0 +1,7 @@
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.csproj.AssemblyReference.cache
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.AssemblyInfoInputs.cache
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.AssemblyInfo.cs
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vitor\src\GeradorDeCartaoVirtual\obj\Debug\net5.0\GeradorDeCartaoVirtual.MvcApplicationPartsAssemblyInfo.cache
